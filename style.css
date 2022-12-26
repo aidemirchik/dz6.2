@@ -1,0 +1,32 @@
+.svd {
+    width: 100px;
+    height: 100px; 
+    position: relative;
+    animation-name: example;
+    animation-duration: 3.2s;
+    animation-iteration-count: infinite;
+}
+@keyframes example {
+    0% { left:450px; top: 190px; }
+    5% { left:460px; top: 190px;}
+    10% { left:470px; top: 190px;}
+    15% { left:480px; top: 190px;}
+    20% { left:490px; top: 190px;}
+    25% { left:500px; top: 190px;}
+    30% { left:510px; top: 190px;}
+    35% { left:520px; top: 190px;}
+    40% { left:530px; top: 190px;}
+    45% { left:540px; top: 190px;}
+    50% { left:550px; top: 190px;}
+    55% { left:550px; top: 190px;}
+    60% { left:540px; top: 190px;}
+    65% { left:530px; top: 190px;}
+    70% { left:520px; top: 190px;}
+    75% { left:510px; top: 190px;}
+    80% { left:500px; top: 190px;}
+    85% { left:490px; top: 190px;}
+    90% { left:480px; top: 190px;}
+    95% { left:470px; top: 190px;}
+    98% { left:460px; top: 190px;}
+    100% { left:450px; top: 190px;}
+}
